@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+html{
+    font-size: 10px;
+}
+
+body {
+    min-height: 100vh;
+}
+
+@media(max-width: 768px) {
+    html {
+        font-size: 8px;
+    }
+}
